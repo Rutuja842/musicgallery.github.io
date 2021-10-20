@@ -1,31 +1,31 @@
 let allMusic = [
   {
-    name: "Not Shy",
+    name: "Not Shy  ",
     artist: "ITZY",
    img: "music-1",
     src: "music-1"
   },
   {
-    name: "New Face",
+    name: "New Face ",
     artist: "PSY",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Back Door",
+    name: "Back Door ",
     artist: "Stray Kids",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Bapsae",
+    name: "Bapsae ",
     artist: "BTS",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Cheer up",
-     artist: " Twice",
+    name: "Cheer up ",
+     artist: " TWICE ",
     img: "music-5",
     src: "music-5"
   },
@@ -37,18 +37,18 @@ let allMusic = [
   },
     {
     name: "How you like that",
-     artist: " BlackPink",
+     artist: " Blackpink",
     img: "music-7",
     src: "music-7"
   },
     {
     name: "I cant stop me",
-     artist: "Twice",
+     artist: " TWICE",
     img: "music-8",
     src: "music-8"
   },
     {
-    name: "Ready to love ",
+    name: "Ready to love   ",
      artist: " Seventeen",
     img: "music-9",
     src: "music-9"
@@ -56,10 +56,11 @@ let allMusic = [
     
     {
     name: "Talk to me",
-     artist: "Red Velvet",
+     artist: " Red Velvet",
     img: "music-10",
     src: "music-10"
   },
  
  
 ];
+
